@@ -33,3 +33,6 @@ Sunucuyu başlatın, config.yml, webhook.yml, EN.yml ve TR.yml dil dosyaları sa
 ** **
 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu (Proprietary) bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
+** **
+<img width="1765" height="881" alt="cAdmin Kapak" src="https://github.com/user-attachments/assets/123569a8-2d89-40e0-a4c9-4dc8f669ddb6" />
+
